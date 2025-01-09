@@ -5,7 +5,7 @@ As a person working in tech I also like to play around with building things. Her
 While you are here, feel free to reach out to me, there might be something we can work on together ;) 
 
 Some of my things I am currently playing with:
-- [ilias.pm](https://github.com/1lias/ilias-bio): My corner on the internet, not much yet, but I'd like it to be a space where I collect some of my more public notes.
+- [ilias.pm](https://ilias.pm): My corner on the internet, not much yet, but I'd like it to be a space where I collect some of my more public notes.
 - [Advent of Code 2024](https://github.com/1lias/Advent-of-Code-2024): I am trying to get better at python while solving these Chrsitmas puzzles.
 - [LogCake](https://github.com/1lias/LogCake): a small MacOS app for tracking time spent on tasks (I use it for my journal).
 - [film—log](https://github.com/1lias/film-log): an iOS app for noting down the settings and other frame info for each analogue camera shot.

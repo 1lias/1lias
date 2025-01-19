@@ -1,14 +1,14 @@
-### Hi there 👋
+# Hi there 👋  
 
-As a person working in tech I also like to play around with building things. Here is the space where I keep some of my ongoing projects, my perosnal site and otehr interesting things I am working on. Some are private and some are public depending on my mood. I hope to contribute more often in 2025. 
+I work in tech and enjoy building things in my spare time. This is where I share some of my ongoing projects, my personal site, and a few experiments. Some are public, others are private—it depends on where my focus is at the moment. In 2025, I hope to contribute more consistently.  
 
-While you are here, feel free to reach out to me, there might be something we can work on together ;) 
+If something here catches your interest, feel free to reach out. Who knows, we might create something together.  
 
-Some of my things I am currently playing with:
-- [ilias.pm](https://ilias.pm): My corner on the internet, not much yet, but I'd like it to be a space where I collect some of my more public notes.
-- [Advent of Code 2024](https://github.com/1lias/Advent-of-Code-2024): I am trying to get better at python while solving these Chrsitmas puzzles.
-- [LogCake](https://github.com/1lias/LogCake): a small MacOS app for tracking time spent on tasks (I use it for my journal).
-- [film—log](https://github.com/1lias/film-log): an iOS app for noting down the settings and other frame info for each analogue camera shot.
+## Current projects  
+- [**ilias.pm**](https://ilias.pm): My corner on the internet. It is still a work in progress, but I see it as a place to gather my public notes.  
+- [**Advent of Code 2024**](https://github.com/1lias/Advent-of-Code-2024): Using festive puzzles to get better at Python.  
+- [**LogCake**](https://github.com/1lias/LogCake): A small macOS app I use to track time spent on tasks and journaling.  
+- [**film log**](https://github.com/1lias/film-log): An iOS app for tracking settings and details for analogue camera shots.  
 <!--
 **1lias/1lias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

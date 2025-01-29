@@ -5,7 +5,7 @@ My name is Ilias, I am a Product Manager by trade. This is the space where is sh
 If something here catches your interest, feel free to reach out. Who knows, we might create something together.  
 
 ### Current projects  
-- [ilias.pm](https://ilias.pm): My corner on the internet. It is still a work in progress, but I see it as a place to gather my public notes.  
+- [ilias.pm](https://ilias.pm): My corner on the internet. \
 - [Advent of Code 2024](https://github.com/1lias/Advent-of-Code-2024): Using festive puzzles to get better at Python.  
 - [LogCake](https://github.com/1lias/LogCake): A small macOS app I use to track time spent on tasks and journaling.  
 - [film log](https://github.com/1lias/film-log): An iOS app for tracking settings and details for analogue camera shots.  

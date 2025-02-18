@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-My name is Ilias, I am a Product Manager by trade. This is the space where is share some of my ongoing projects, my personal site, and a few experiments. Majority if the work is public, hoping to inspire some conversations. In 2025, I hope to contribute more consistently.  
+My name is Ilias, I am a Product Manager by trade. This is the space where is share some of my ongoing projects, my personal site, and a few experiments. Majority if the work is public, hoping to inspire some conversations. In 2025, I will be contributing more consistently.
 
 If something here catches your interest, feel free to reach out. Who knows, we might create something together.  
 
